@@ -98,8 +98,8 @@ npm run preview
 - `npm run preview` → previews the production build locally
 
 ## Links
-- **Repository:** [Add your GitHub repository link here]
-- **Deployed Preview:** [Add your deployed preview link here]
+- **Repository:** [https://github.com/khanmisbahnihal-spec/misbah_khan_NovaIOT_FrontendIntern_submission.git]
+- **Deployement retry**
 - **Demo Video:** [videolink[https://drive.google.com/file/d/1FJa9MZBCeonfqlfvuowO2mj1QtS9sy3w/view?usp=sharing]]
 
 ## Assumptions
