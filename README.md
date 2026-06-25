@@ -100,7 +100,7 @@ npm run preview
 ## Links
 - **Repository:** [Add your GitHub repository link here]
 - **Deployed Preview:** [Add your deployed preview link here]
-- **Demo Video:** [Add your demo video link here]
+- **Demo Video:** [videolink[https://drive.google.com/file/d/1FJa9MZBCeonfqlfvuowO2mj1QtS9sy3w/view?usp=sharing]]
 
 ## Assumptions
 - The assignment focuses on the **frontend dashboard experience**, so fleet data is represented using generated/mock data instead of a live backend integration.
